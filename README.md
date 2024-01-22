@@ -70,4 +70,4 @@
 | stepNoPx      |  步驟序數字體大  |
 | stepNamePx    | 步驟名稱字體大小 |
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Demo Page](https://yurei-liu.github.io/vuestepprocessbar/).

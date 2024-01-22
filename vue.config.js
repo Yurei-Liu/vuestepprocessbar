@@ -1,6 +1,6 @@
 module.exports = {
   //   transpileDependencies: true,
-  publicPath: "./",
+  publicPath: "/",
   lintOnSave: false,
   css: {
     extract: false,
