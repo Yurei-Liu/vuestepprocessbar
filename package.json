@@ -1,6 +1,6 @@
 {
   "name": "vuestepprocessbar",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "main": "dist/VueStepProcessBar.common.js",
   "private": false,
   "author": "Areis <Liu_Areis@syscom.com.tw>",
